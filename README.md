@@ -12,10 +12,20 @@ Con usuarios normales y administradores, con sus roles bien definidos, asi como 
 
 *Login*
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/88883d96-c4fd-4fdc-b414-04ac7b951154" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/10992535-3887-42b0-baa2-516755dd7852" />
 
 
 *Pantalla Inicial*
 
 <img width="400" height="300" alt="Captura de pantalla 2024-11-04 151802" src="https://github.com/user-attachments/assets/61caed96-0541-4613-bb8b-bce6b85a996d" />
+
+*Pantallas d Administración
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9007824b-6b9b-4740-9bb7-6cd18dae8301" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8a108425-73b2-4cf9-9a60-6b91104efde4" />
+
+
+
+
 
