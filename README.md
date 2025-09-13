@@ -19,11 +19,29 @@ Con usuarios normales y administradores, con sus roles bien definidos, asi como 
 
 <img width="400" height="300" alt="Captura de pantalla 2024-11-04 151802" src="https://github.com/user-attachments/assets/61caed96-0541-4613-bb8b-bce6b85a996d" />
 
-*Pantallas d Administración
+*Pantallas d Administración*
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9007824b-6b9b-4740-9bb7-6cd18dae8301" />
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8a108425-73b2-4cf9-9a60-6b91104efde4" />
+
+*Pantalla d ingrso d pacints*
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/68c1a3b8-0268-42b9-8c7c-05271e3cd0f0" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/5ce71aa8-2785-484b-a202-a7cf730b3642" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e6e4a3a6-c790-485f-a46e-e736c2aeebfa" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/dea0b1dc-529f-4dfb-948b-9f6e82c7bfe8" />
+
+
+
+
+
+
+
+
 
 
 
