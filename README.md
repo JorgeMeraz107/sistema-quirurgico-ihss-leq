@@ -56,6 +56,19 @@ Con usuarios normales y administradores, con sus roles bien definidos, asi como 
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1bd8f4d1-d31c-4aca-a3eb-4680394bfe4b" />
 
+*Exportacion del Reporte*
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9ad23601-f2c7-424c-8d55-b8f10bf38367" />
+
+*Perfil del Usuario*
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/12c09186-5838-43d4-98d5-bf247a6a895d" />
+
+*Cambio de Contraseña*
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8e04345e-86d0-48f2-b5e8-c1e59defd8c1" />
+
+
 
 
 
