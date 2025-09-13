@@ -48,6 +48,16 @@ Con usuarios normales y administradores, con sus roles bien definidos, asi como 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/307efcde-f8b2-41af-886e-270b0c67c61c" />
 
 
+*Menu de Reportes en Pacientes*
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/5f78711b-f7cb-4241-a1b0-daa6fe43dcfd" />
+
+*Vista Previa de Reporte*
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1bd8f4d1-d31c-4aca-a3eb-4680394bfe4b" />
+
+
+
 
 
 
