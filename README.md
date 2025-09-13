@@ -68,7 +68,7 @@ Con usuarios normales y administradores, con sus roles bien definidos, asi como 
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8e04345e-86d0-48f2-b5e8-c1e59defd8c1" />
 
-*El Sistema LEQ desarrollado en java cuenta con mas de 25 interfaces, por las cuales por razones obvias no se pueden presentar debido a la privacidad de los pacientes*
+*El Sistema LEQ desarrollado en java cuenta con mas de 25 interfaces, por las cuales por razones obvias no se pueden presentar debido a la privacidad de los pacientes   desarrollado por el Ing. Jorge Meraz  2023-2024*
 
 
 
