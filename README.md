@@ -1,5 +1,7 @@
 # sistema-quirurgico-ihss-leq
  Sistema de gestion de Operaciones Quirugicas para el IHSS
+ 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/85c72b67-d2ac-42ed-9678-2f120256213a" />
 
 El sistemas LEQ fue realizado como reemplazo, del sistema LEQ antiguo desarrollado en foxpro por desarrolladores Mexicanos y Españoles atraves de una consultadora de software hace casi 20 años, dicho software era virtualizado en las PCs debido a su funcionamiento unicamente en Windows XP, virtualizado en Virtual Box.
 
