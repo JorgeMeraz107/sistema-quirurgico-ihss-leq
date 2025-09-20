@@ -3,6 +3,9 @@
  
 <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/85c72b67-d2ac-42ed-9678-2f120256213a" />
 
+<img width="403" height="223" alt="LEQoficial" src="https://github.com/user-attachments/assets/ca83ea2c-83fb-45d1-b8e5-034ab5fe109c" />
+
+
 El sistemas LEQ fue realizado como reemplazo, del sistema LEQ antiguo desarrollado en foxpro por desarrolladores Mexicanos y Españoles atraves de una consultadora de software hace casi 20 años, dicho software era virtualizado en las PCs debido a su funcionamiento unicamente en Windows XP, virtualizado en Virtual Box.
 
 El Nuevo LEQ desarrollado en su totalidad en java puro, con bibiliotecas y librerias de graficos, reportes, excel, word, y HTMLl, llego como un reempleazo desarrollado por mi persona, desarrollado durante 1 años y 5 meses, como pasante de ing. en sistemas. 
