@@ -50,6 +50,7 @@ La nueva versión fue desarrollada completamente en Java, permitiendo modernizar
 | Java Swing | Interfaces gráficas |
 | JDBC | Conexión a base de datos |
 | MySQL | Gestión de datos |
+| MySQL Server | Gestión y administración de base de datos |
 | JasperReports | Generación de reportes |
 | Apache POI | Exportación Excel/Word |
 | HTML | Reportes y visualización |
